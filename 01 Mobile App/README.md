@@ -28,3 +28,5 @@ Don’t forget to use the MVVM pattern: https://docs.microsoft.com/en-us/xamarin
 * Achieve the two counters (and buttons) using a list of models in your view model and a [DataTemplate](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/templates/data-templates/creating).
 
 ![screen shot](./ScreenShot.PNG)
+
+SG: What's the difference between "Basic" and "Advanced"?
